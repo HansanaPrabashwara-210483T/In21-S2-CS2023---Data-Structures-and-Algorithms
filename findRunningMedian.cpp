@@ -1,7 +1,7 @@
 /**
  * @file quicksort.cpp
  * @author D.G.Hansana Prabashwara (you@domain.com)
- * @brief Generate a array with random values and Find the running median. This program uses insertionsort algoritm to sort the given list. 
+ * @brief Generate a array with random values and Find the running median. This program uses insertion sort algoritm to sort the given list. 
  * @version 0.1
  * @date 2023-03-28
  * 
