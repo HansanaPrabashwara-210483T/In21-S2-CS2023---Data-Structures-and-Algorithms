@@ -1,1 +1,2 @@
-##Week6 In Class Lab
+# In Class Lab (Week 6)
+
